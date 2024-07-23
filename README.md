@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/D3F4LUT0!/Android-IMEI-Changer">
-        <img src="https://i.ibb.co/4g8FdtN/SOSI.png" width="700">
+       " width="700">
     </a>
 </h1>
 
