@@ -88,7 +88,6 @@ chmod +x {program}
 <h2 align="center">Contact Developer</h2>
 
 
-    Telegram:           @secdet17
-    Group:              t.me/secdet_team
-    Email:              tylerblackout17@gmail.com
-
+    Telegram:           @D3F4ULT0!
+    Group:              t.me/...
+    Email:              Haha
