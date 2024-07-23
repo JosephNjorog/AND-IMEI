@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/D3F4LUT0!/Android-IMEI-Changer">
-       " width="700">
+       " D3F4ULTO! 😈">
     </a>
 </h1>
 
